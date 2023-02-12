@@ -70,7 +70,5 @@ public class Main {
             }
             return s;
         };
-
     }
-
 }
